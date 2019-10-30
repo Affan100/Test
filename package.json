@@ -4,7 +4,9 @@
   "description": "",
   "main": "node.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "div":"next",
+    "start": "next star",
+    "build": "next build"
   },
   "author": "",
   "license": "ISC",
