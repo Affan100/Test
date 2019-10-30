@@ -10,11 +10,11 @@
 // ActiveXObject['a']
 // obj.a
 
-function fn(a, b){
-    return a +  b;
-}
-const fn2 = (a, b) => {
-    return a -  b;
-}
+// function fn(a, b){
+//     return a +  b;
+// }
+// const fn2 = (a, b) => {
+//     return a -  b;
+// }
 
-console.log(fn(10, 20)) 
+// console.log(fn(10, 20)) 
